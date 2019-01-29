@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/archives/index.html</loc>
+    
+    <lastmod>2019-01-29T10:13:51.306Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2019-01-29T10:13:35.376Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-01-29T10:13:25.278Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2019-01-29T10:13:13.659Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/posts/eac72063/</loc>
     
     <lastmod>2019-01-29T09:14:14.042Z</lastmod>
