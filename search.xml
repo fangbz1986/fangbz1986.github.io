@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Linux常用小技巧</title>
+      <link href="/posts/eac72063/"/>
+      <url>/posts/eac72063/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1、当前用户对某个目录写入权限"><a href="#1、当前用户对某个目录写入权限" class="headerlink" title="1、当前用户对某个目录写入权限"></a>1、当前用户对某个目录写入权限</h1><p>   sudo chown -hR 当前用户名 需要写入的目录<br>   例如如下修改hadoop用户可以写入目录hadoop-2.6.0-cdh5.7.0权限</p>   <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[hadoop@hadoop000 program]$ sudo chown -hR hadoop hadoop-2.6.0-cdh5.7.0</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>centos修改hostname</title>
       <link href="/posts/f77ce5c3/"/>
       <url>/posts/f77ce5c3/</url>
